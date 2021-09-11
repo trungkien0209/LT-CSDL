@@ -1,0 +1,12 @@
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\bin\Debug\Lab02_ViDu2.exe.config
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\bin\Debug\Lab02_ViDu2.exe
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\bin\Debug\Lab02_ViDu2.pdb
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\obj\Debug\Lab02_ViDu2.csproj.AssemblyReference.cache
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\obj\Debug\Lab02_ViDu2.Form1.resources
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\obj\Debug\Lab02_ViDu2.Properties.Resources.resources
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\obj\Debug\Lab02_ViDu2.csproj.GenerateResource.cache
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\obj\Debug\Lab02_ViDu2.csproj.CoreCompileInputs.cache
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\obj\Debug\Lab02_ViDu2.exe
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\obj\Debug\Lab02_ViDu2.pdb
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\obj\Debug\Lab02_ViDu2.frmTBGiaoVien.resources
+D:\Kenn\LTCSDL\Lab02_ViDu2\Lab02_ViDu2\obj\Debug\Lab02_ViDu2.FormTimKiem.resources
