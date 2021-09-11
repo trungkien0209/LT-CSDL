@@ -8,3 +8,13 @@ D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.GenerateResourc
 D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.CoreCompileInputs.cache
 D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.exe
 D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.pdb
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe.config
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.pdb
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.AssemblyReference.cache
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.TrungTamForm.resources
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.Properties.Resources.resources
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.GenerateResource.cache
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.CoreCompileInputs.cache
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.exe
+D:\GITHUB\GitHub\LT-CSDL\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.pdb
