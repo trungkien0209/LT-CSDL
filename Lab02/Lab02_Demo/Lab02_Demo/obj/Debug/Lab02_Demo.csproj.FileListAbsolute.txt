@@ -1,0 +1,10 @@
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe.config
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.pdb
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.AssemblyReference.cache
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.TrungTamForm.resources
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.Properties.Resources.resources
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.GenerateResource.cache
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.CoreCompileInputs.cache
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.exe
+D:\Kenn\LTCSDL\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.pdb
