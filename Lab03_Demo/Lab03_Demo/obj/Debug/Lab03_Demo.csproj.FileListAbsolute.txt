@@ -9,3 +9,14 @@ D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
 D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
 D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
 D:\Kenn\LTCSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmTuyChon.resources
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.AssemblyReference.cache
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmTuyChon.resources
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
