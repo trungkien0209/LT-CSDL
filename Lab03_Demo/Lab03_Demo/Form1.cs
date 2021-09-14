@@ -277,5 +277,22 @@ namespace Lab03_Demo
                 this.LoadListView();
             }
         }
+
+        private void menuItemOpenFile_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dlg = new OpenFileDialog();
+            dlg.FileName = "Hãy chọn file";
+            dlg.Title = "Open File Image";
+            dlg.Filter = "Image Files (*.bmp;*.jpg;*.png)|"
+            + "*.bmp;*.jpg;*png|;"
+            + "All files (*.*)|*.*";
+            dlg.InitialDirectory = Environment.CurrentDirectory;
+            if (dlg.ShowDialog() == DialogResult.OK)
+            {
+                var fileName = dlg.FileName;
+                txtHinh.Text = fileName;
+                pbHinh.Load(fileName);
+            }
+        }
     }
 }
