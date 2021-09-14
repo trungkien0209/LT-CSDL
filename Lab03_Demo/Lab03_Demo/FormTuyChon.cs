@@ -14,13 +14,6 @@ namespace Lab03_Demo
     {
         QuanLySinhVien qlsv;
         ListView listView;
-   
-
-        public frmTuyChon()
-        {
-            InitializeComponent();
-        }
-
         public frmTuyChon(QuanLySinhVien qlsv, ListView listView, string loai)
         {
             InitializeComponent();
