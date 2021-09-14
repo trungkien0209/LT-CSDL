@@ -16,13 +16,13 @@ namespace Lab03_Demo
             DanhSach = new List<SinhVien>();
         }
 
-        public void Them(SinhVien sv, Action callback)
+        public void Them(SinhVien sv, Action tongSo)
         {
             var isExists = DanhSach.Exists(sinhVien => sinhVien.MaSo == sv.MaSo);
             if (isExists)
-                throw new ArgumentException("Sinh vien co ma: " + sv.MaSo + " da ton tai!");
+                throw new ArgumentException("Sinh viên có mã: " + sv.MaSo + " đã tồn tại");
             DanhSach.Add(sv);
-            callback();
+            tongSo();
         }
 
         public SinhVien this[int index]
@@ -31,13 +31,13 @@ namespace Lab03_Demo
             set { DanhSach[index] = value; }
         }
 
-        public void Xoa(object obj, SoSanh ss, Action callback)
+        public void Xoa(object obj, SoSanh ss, Action tongSo)
         {
             int i = DanhSach.Count - 1;
             for (; i >= 0; i--)
                 if (ss(obj, this[i]) == 0)
                     this.DanhSach.RemoveAt(i);
-            callback();
+            tongSo();
         }
 
         public SinhVien Tim(SinhVien sv) => DanhSach.Find(s => s.MaSo == sv.MaSo);
@@ -57,7 +57,7 @@ namespace Lab03_Demo
             return kq;
         }
 
-        public void DocTuFile(Action callback)
+        public void DocTuFile(Action tongSo)
         {
             string filename = "DanhSachSV.txt", t;
             string[] s;
@@ -79,7 +79,7 @@ namespace Lab03_Demo
                 {
                     sv.ChuyenNganh.Add(c.Trim());
                 }
-                Them(sv, callback);
+                Them(sv, tongSo);
             }
             sr.Close();
         }

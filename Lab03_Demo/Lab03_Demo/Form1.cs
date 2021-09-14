@@ -233,9 +233,5 @@ namespace Lab03_Demo
             formTuyChon.ShowDialog();
         }
 
-        private void rdNu_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -179,7 +179,7 @@ namespace Lab03_Demo
             this.menuItemOpenFile,
             this.menuItemExit});
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(32, 19);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(37, 20);
             this.toolStripMenuItem1.Text = "File";
             // 
             // menuItemOpenFile
@@ -204,7 +204,7 @@ namespace Lab03_Demo
             this.menuItemEdit,
             this.toolStripMenuItem8});
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(32, 19);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(39, 20);
             this.toolStripMenuItem2.Text = "Edit";
             // 
             // menuItemAdd
@@ -369,7 +369,6 @@ namespace Lab03_Demo
             this.rdNu.TabIndex = 6;
             this.rdNu.Text = "Nữ";
             this.rdNu.UseVisualStyleBackColor = true;
-            this.rdNu.CheckedChanged += new System.EventHandler(this.rdNu_CheckedChanged);
             // 
             // clbChuyenNganh
             // 
@@ -511,7 +510,7 @@ namespace Lab03_Demo
             // mtxtMaSo
             // 
             this.mtxtMaSo.Location = new System.Drawing.Point(232, 43);
-            this.mtxtMaSo.Mask = "SV.00000";
+            this.mtxtMaSo.Mask = "0000000";
             this.mtxtMaSo.Name = "mtxtMaSo";
             this.mtxtMaSo.Size = new System.Drawing.Size(100, 20);
             this.mtxtMaSo.TabIndex = 0;
