@@ -233,5 +233,49 @@ namespace Lab03_Demo
             formTuyChon.ShowDialog();
         }
 
+        private void menuItemExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void menuItemAdd_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                SinhVien sv = GetSinhVien();
+                qlsv.Them(sv, renderStatusBar);
+                this.LoadListView();
+            }
+            catch (ArgumentException ex)
+            {
+                MessageBox.Show("Mã sinh viên đã tồn tại!", "Lỗi thêm dữ liệu", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void menuItemDelete_Click(object sender, EventArgs e)
+        {
+            int count, i;
+            ListViewItem lvitem;
+            count = this.lvSinhVien.Items.Count - 1;
+            for (i = count; i >= 0; i--)
+            {
+                lvitem = this.lvSinhVien.Items[i];
+                if (lvitem.Checked)
+                    qlsv.Xoa(lvitem.SubItems[0].Text, SoSanhTheoMa, renderStatusBar);
+            }
+            this.LoadListView();
+            this.btnMacDinh.PerformClick();
+        }
+
+        private void menuItemEdit_Click(object sender, EventArgs e)
+        {
+            SinhVien sv = GetSinhVien();
+            bool kqsua;
+            kqsua = qlsv.Sua(sv, sv.MaSo, SoSanhTheoMa);
+            if (kqsua)
+            {
+                this.LoadListView();
+            }
+        }
     }
 }

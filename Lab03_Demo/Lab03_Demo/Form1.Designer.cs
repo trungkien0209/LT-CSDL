@@ -186,15 +186,16 @@ namespace Lab03_Demo
             // 
             this.menuItemOpenFile.Image = global::Lab03_Demo.Properties.Resources.open;
             this.menuItemOpenFile.Name = "menuItemOpenFile";
-            this.menuItemOpenFile.Size = new System.Drawing.Size(113, 22);
+            this.menuItemOpenFile.Size = new System.Drawing.Size(180, 22);
             this.menuItemOpenFile.Text = "Mở File";
             // 
             // menuItemExit
             // 
             this.menuItemExit.Image = global::Lab03_Demo.Properties.Resources.exit;
             this.menuItemExit.Name = "menuItemExit";
-            this.menuItemExit.Size = new System.Drawing.Size(113, 22);
+            this.menuItemExit.Size = new System.Drawing.Size(180, 22);
             this.menuItemExit.Text = "Thoát";
+            this.menuItemExit.Click += new System.EventHandler(this.menuItemExit_Click);
             // 
             // toolStripMenuItem2
             // 
@@ -214,8 +215,9 @@ namespace Lab03_Demo
             this.menuItemAdd.ShortcutKeyDisplayString = "";
             this.menuItemAdd.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt) 
             | System.Windows.Forms.Keys.T)));
-            this.menuItemAdd.Size = new System.Drawing.Size(167, 22);
+            this.menuItemAdd.Size = new System.Drawing.Size(180, 22);
             this.menuItemAdd.Text = "Thêm";
+            this.menuItemAdd.Click += new System.EventHandler(this.menuItemAdd_Click);
             // 
             // menuItemDelete
             // 
@@ -223,8 +225,9 @@ namespace Lab03_Demo
             this.menuItemDelete.Name = "menuItemDelete";
             this.menuItemDelete.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt) 
             | System.Windows.Forms.Keys.Y)));
-            this.menuItemDelete.Size = new System.Drawing.Size(167, 22);
+            this.menuItemDelete.Size = new System.Drawing.Size(180, 22);
             this.menuItemDelete.Text = "Xóa";
+            this.menuItemDelete.Click += new System.EventHandler(this.menuItemDelete_Click);
             // 
             // menuItemEdit
             // 
@@ -232,8 +235,9 @@ namespace Lab03_Demo
             this.menuItemEdit.Name = "menuItemEdit";
             this.menuItemEdit.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt) 
             | System.Windows.Forms.Keys.S)));
-            this.menuItemEdit.Size = new System.Drawing.Size(167, 22);
+            this.menuItemEdit.Size = new System.Drawing.Size(180, 22);
             this.menuItemEdit.Text = "Sửa";
+            this.menuItemEdit.Click += new System.EventHandler(this.menuItemEdit_Click);
             // 
             // toolStripMenuItem8
             // 

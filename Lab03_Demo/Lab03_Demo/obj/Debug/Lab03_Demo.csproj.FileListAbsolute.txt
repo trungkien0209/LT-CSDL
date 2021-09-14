@@ -20,3 +20,14 @@ D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.Gener
 D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
 D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
 D:\GITHUB\GitHub\LT-CSDL\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
+D:\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+D:\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+D:\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+D:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.AssemblyReference.cache
+D:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+D:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmTuyChon.resources
+D:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+D:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+D:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+D:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+D:\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
