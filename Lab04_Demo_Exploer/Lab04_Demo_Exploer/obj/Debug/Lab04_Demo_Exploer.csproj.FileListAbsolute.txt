@@ -1,0 +1,10 @@
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\bin\Debug\Lab04_Demo_Exploer.exe.config
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\bin\Debug\Lab04_Demo_Exploer.exe
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\bin\Debug\Lab04_Demo_Exploer.pdb
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\obj\Debug\Lab04_Demo_Exploer.csproj.AssemblyReference.cache
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\obj\Debug\Lab04_Demo_Exploer.frmExplorer.resources
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\obj\Debug\Lab04_Demo_Exploer.Properties.Resources.resources
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\obj\Debug\Lab04_Demo_Exploer.csproj.GenerateResource.cache
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\obj\Debug\Lab04_Demo_Exploer.csproj.CoreCompileInputs.cache
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\obj\Debug\Lab04_Demo_Exploer.exe
+D:\Kenn\LTCSDL\Lab04_Demo_Exploer\Lab04_Demo_Exploer\obj\Debug\Lab04_Demo_Exploer.pdb
