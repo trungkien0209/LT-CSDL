@@ -1,0 +1,10 @@
+D:\Kenn\LTCSDL\Lab04\Lab04\bin\Debug\Lab04.exe.config
+D:\Kenn\LTCSDL\Lab04\Lab04\bin\Debug\Lab04.exe
+D:\Kenn\LTCSDL\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\Kenn\LTCSDL\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+D:\Kenn\LTCSDL\Lab04\Lab04\obj\Debug\Lab04.frmSinhVien.resources
+D:\Kenn\LTCSDL\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+D:\Kenn\LTCSDL\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+D:\Kenn\LTCSDL\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\Kenn\LTCSDL\Lab04\Lab04\obj\Debug\Lab04.exe
+D:\Kenn\LTCSDL\Lab04\Lab04\obj\Debug\Lab04.pdb
