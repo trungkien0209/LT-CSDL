@@ -1,0 +1,11 @@
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\bin\Debug\Lab04_Demo.exe.config
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\bin\Debug\Lab04_Demo.exe
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\bin\Debug\Lab04_Demo.pdb
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.csproj.AssemblyReference.cache
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.frmPicture.resources
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.Properties.Resources.resources
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.csproj.GenerateResource.cache
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.csproj.CoreCompileInputs.cache
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.exe
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.pdb
+D:\Kenn\LTCSDL\Lab04_Demo\Lab04_Demo\obj\Debug\Lab04_Demo.frmPictureView.resources
