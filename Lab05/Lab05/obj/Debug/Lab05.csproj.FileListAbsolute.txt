@@ -1,0 +1,11 @@
+D:\Kenn\LTCSDL\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\Kenn\LTCSDL\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\Kenn\LTCSDL\Lab05\Lab05\bin\Debug\Lab05.pdb
+D:\Kenn\LTCSDL\Lab05\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+D:\Kenn\LTCSDL\Lab05\Lab05\obj\Debug\Lab05.Form1.resources
+D:\Kenn\LTCSDL\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\Kenn\LTCSDL\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\Kenn\LTCSDL\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\Kenn\LTCSDL\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\Kenn\LTCSDL\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\Kenn\LTCSDL\Lab05\Lab05\obj\Debug\Lab05.frmTimKiem.resources

@@ -1,0 +1,13 @@
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe.config
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.pdb
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.AssemblyReference.cache
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Form1.resources
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Properties.Resources.resources
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.GenerateResource.cache
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.CoreCompileInputs.cache
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.exe
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.pdb
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.frmFood.resources
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.AccountManagerForm.resources
+D:\Kenn\LTCSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.BillsForm.resources
