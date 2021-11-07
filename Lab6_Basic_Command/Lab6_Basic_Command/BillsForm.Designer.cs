@@ -35,9 +35,6 @@ namespace Lab6_Basic_Command
             // 
             // dgvHoaDon
             // 
-            this.dgvHoaDon.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvHoaDon.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvHoaDon.Location = new System.Drawing.Point(-1, 1);
             this.dgvHoaDon.Name = "dgvHoaDon";

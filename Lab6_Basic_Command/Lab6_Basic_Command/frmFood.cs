@@ -13,6 +13,7 @@ namespace Lab6_Basic_Command
 {
 	public partial class frmFood : Form
     {
+		int categoryID;
 		public frmFood()
         {
             InitializeComponent();
@@ -20,6 +21,7 @@ namespace Lab6_Basic_Command
 
 		public void LoadFood(int categoryID)
 		{
+			this.categoryID = categoryID;
 			string connectionString = "server=.; database = RestaurantManagement; Integrated Security = true; ";
 			SqlConnection sqlConnection = new SqlConnection(connectionString);
 
@@ -40,6 +42,12 @@ namespace Lab6_Basic_Command
 			da.Fill(dt);
 
 			dgvFood.DataSource = dt;
+			dgvFood.Columns[0].HeaderText = "Mã món ăn";
+			dgvFood.Columns[1].HeaderText = "Tên món ăn";
+			dgvFood.Columns[2].HeaderText = "Đơn vị";
+			dgvFood.Columns[3].HeaderText = "Mã Loại";
+			dgvFood.Columns[4].HeaderText = "Giá tiền";
+			dgvFood.Columns[5].HeaderText = "Ghi chú";
 
 			sqlConnection.Close();
 			sqlConnection.Dispose();
@@ -48,6 +56,7 @@ namespace Lab6_Basic_Command
 
         private void btnSave_Click(object sender, EventArgs e)
         {
+		
 		}
 
         private void btnDelete_Click(object sender, EventArgs e)
