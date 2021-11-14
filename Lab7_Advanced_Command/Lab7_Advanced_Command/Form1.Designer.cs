@@ -35,7 +35,6 @@ namespace Lab7_Advanced_Command
             this.dgvFoodList = new System.Windows.Forms.DataGridView();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tsmCalculateQuantity = new System.Windows.Forms.ToolStripMenuItem();
-            this.tsmSeperatorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmAddFood = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmUpdateFood = new System.Windows.Forms.ToolStripMenuItem();
             this.label2 = new System.Windows.Forms.Label();
@@ -44,6 +43,8 @@ namespace Lab7_Advanced_Command
             this.lblCatName = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.txtSearchByName = new System.Windows.Forms.TextBox();
+            this.tsmBill = new System.Windows.Forms.ToolStripMenuItem();
+            this.tsmAccount = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFoodList)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -82,11 +83,12 @@ namespace Lab7_Advanced_Command
             // 
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmCalculateQuantity,
-            this.tsmSeperatorToolStripMenuItem,
             this.tsmAddFood,
-            this.tsmUpdateFood});
+            this.tsmUpdateFood,
+            this.tsmBill,
+            this.tsmAccount});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(186, 92);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(186, 136);
             // 
             // tsmCalculateQuantity
             // 
@@ -94,12 +96,6 @@ namespace Lab7_Advanced_Command
             this.tsmCalculateQuantity.Size = new System.Drawing.Size(185, 22);
             this.tsmCalculateQuantity.Text = "Tính số lượng đã bán";
             this.tsmCalculateQuantity.Click += new System.EventHandler(this.tsmCalculateQuantity_Click);
-            // 
-            // tsmSeperatorToolStripMenuItem
-            // 
-            this.tsmSeperatorToolStripMenuItem.Name = "tsmSeperatorToolStripMenuItem";
-            this.tsmSeperatorToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
-            this.tsmSeperatorToolStripMenuItem.Text = "tsmSeperator";
             // 
             // tsmAddFood
             // 
@@ -168,6 +164,20 @@ namespace Lab7_Advanced_Command
             this.txtSearchByName.TabIndex = 10;
             this.txtSearchByName.TextChanged += new System.EventHandler(this.txtSearchByName_TextChanged);
             // 
+            // tsmBill
+            // 
+            this.tsmBill.Name = "tsmBill";
+            this.tsmBill.Size = new System.Drawing.Size(185, 22);
+            this.tsmBill.Text = "Xem hoá đơn";
+            this.tsmBill.Click += new System.EventHandler(this.tsmBill_Click);
+            // 
+            // tsmAccount
+            // 
+            this.tsmAccount.Name = "tsmAccount";
+            this.tsmAccount.Size = new System.Drawing.Size(185, 22);
+            this.tsmAccount.Text = "Xem tài khoản";
+            this.tsmAccount.Click += new System.EventHandler(this.tsmAccount_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -203,11 +213,12 @@ namespace Lab7_Advanced_Command
         private System.Windows.Forms.Label lblCatName;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem tsmCalculateQuantity;
-        private System.Windows.Forms.ToolStripMenuItem tsmSeperatorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tsmAddFood;
         private System.Windows.Forms.ToolStripMenuItem tsmUpdateFood;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtSearchByName;
+        private System.Windows.Forms.ToolStripMenuItem tsmBill;
+        private System.Windows.Forms.ToolStripMenuItem tsmAccount;
     }
 }
 

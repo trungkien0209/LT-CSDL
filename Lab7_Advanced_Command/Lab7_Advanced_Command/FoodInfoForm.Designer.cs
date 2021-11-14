@@ -122,6 +122,7 @@ namespace Lab7_Advanced_Command
             this.btnAddNew.TabIndex = 14;
             this.btnAddNew.Text = "Add &New";
             this.btnAddNew.UseVisualStyleBackColor = true;
+            this.btnAddNew.Click += new System.EventHandler(this.btnAddNew_Click);
             // 
             // label5
             // 

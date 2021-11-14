@@ -118,7 +118,12 @@ namespace Lab7_Advanced_Command
 				cmd.ExecuteNonQuery();
 
 				string result = cmd.Parameters["@numSaleFood"].Value.ToString();
-				MessageBox.Show("Tổng số lượng món " + rowView["Name"] + " đã bán là: " + result + " " + rowView["Unit"]);
+				string message = $"Tổng số lượng món {rowView["Name"]} đã bán là {result} {rowView["Unit"]}";
+
+				if (string.IsNullOrWhiteSpace(result))
+					message = $"Món {rowView["Name"]} chưa bán được {rowView["Unit"]} nào!";
+
+				MessageBox.Show(message);
 
 				conn.Close();
 			}
@@ -168,5 +173,17 @@ namespace Lab7_Advanced_Command
 
 			dgvFoodList.DataSource = foodView;
         }
+
+        private void tsmBill_Click(object sender, EventArgs e)
+        {
+			OrdersForm frm = new OrdersForm();
+			frm.Show();
+		}
+
+        private void tsmAccount_Click(object sender, EventArgs e)
+        {
+			AccountForm frm = new AccountForm();
+			frm.Show();
+		}
     }
 }

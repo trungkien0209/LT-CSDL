@@ -9,3 +9,7 @@ D:\Kenn\LTCSDL\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanc
 D:\Kenn\LTCSDL\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.exe
 D:\Kenn\LTCSDL\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.pdb
 D:\Kenn\LTCSDL\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.FoodInfoForm.resources
+D:\Kenn\LTCSDL\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.frmThemNhom.resources
+D:\Kenn\LTCSDL\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.AccountForm.resources
+D:\Kenn\LTCSDL\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.OrderDetailsForm.resources
+D:\Kenn\LTCSDL\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.OrdersForm.resources

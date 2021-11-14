@@ -194,5 +194,11 @@ namespace Lab7_Advanced_Command
         {
 			this.Close();
         }
+
+        private void btnAddNew_Click(object sender, EventArgs e)
+        {
+			frmThemNhom frm = new frmThemNhom();
+			frm.Show();
+		}
     }
 }
