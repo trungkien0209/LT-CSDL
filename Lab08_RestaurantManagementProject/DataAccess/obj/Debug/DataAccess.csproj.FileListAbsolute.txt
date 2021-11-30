@@ -1,0 +1,6 @@
+D:\Kenn\LTCSDL\Lab08_RestaurantManagementProject\DataAccess\bin\Debug\DataAccess.dll
+D:\Kenn\LTCSDL\Lab08_RestaurantManagementProject\DataAccess\bin\Debug\DataAccess.pdb
+D:\Kenn\LTCSDL\Lab08_RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Kenn\LTCSDL\Lab08_RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Kenn\LTCSDL\Lab08_RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.dll
+D:\Kenn\LTCSDL\Lab08_RestaurantManagementProject\DataAccess\obj\Debug\DataAccess.pdb
